@@ -1,4 +1,8 @@
-Chatbot .ipynb: Creating a chatbot in python, using TensorFlow library.
-The bot is trained on comment data from Reddit, from the years 2005 to 2012.
-This project is an implementation of the following:
-https://www.youtube.com/watch?v=dvOnYLDg8_Y&list=PLQVvvaa0QuDdc2k5dwtDTyT9aCja0on8j
+1.  Chatbot .ipynb: Creating a chatbot in python, using TensorFlow library.
+    The bot is trained on comment data from Reddit, from the years 2005 to 2012.
+    This project is an implementation of the following:
+    https://www.youtube.com/watch?v=dvOnYLDg8_Y&list=PLQVvvaa0QuDdc2k5dwtDTyT9aCja0on8j . 
+    
+    
+2.  QuorInsincereQuestions: Classifying Quora questions into normal vs insincere classes. Kaggle Competition: 
+    https://www.kaggle.com/c/quora-insincere-questions-classification
