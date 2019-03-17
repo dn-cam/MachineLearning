@@ -5,4 +5,7 @@
     
     
 2.  QuorInsincereQuestions: Classifying Quora questions into normal vs insincere classes. Kaggle Competition: 
-    https://www.kaggle.com/c/quora-insincere-questions-classification
+    https://www.kaggle.com/c/quora-insincere-questions-classification . 
+    
+    
+3.  kNN.ipynb : k-nearest neighbour classifier from scratch for Iris dataset.
