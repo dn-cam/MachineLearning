@@ -64,3 +64,7 @@ plt.plot(train_x, fit_20, c = 'yellow', label='Lambda = 20')
 plt.plot(train_x, fit_50, c = 'orange',label='Lambda = 50')
 plt.legend(loc="upper right")
 plt.show()
+
+
+
+import sklearn as sk
