@@ -80,6 +80,8 @@ abline_values = [slope * i - y_intercept for i in df['petal length (cm)']]
 
 decision = [(50.01 + x*101.302)/277.614 for x in df['petal length (cm)']]
 
+decisionBoundary = 0
+
 plt.scatter(df['petal length (cm)'],df['petal width (cm)'], c=colors, label='Iris setosa')
 plt.plot(df['petal length (cm)'], abline_values, 'b', c='g')
 plt.grid(True)
