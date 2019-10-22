@@ -8,4 +8,7 @@
     https://www.kaggle.com/c/quora-insincere-questions-classification . 
     
     
-3.  kNN.ipynb : k-nearest neighbour classifier from scratch for Iris dataset.
+3.  kNN.ipynb : k-nearest neighbour classifier from scratch for Iris dataset.  
+
+
+4.Bankruptcy Predction: Bankruptcy prediction for 5 years of Polish companies dataset.
